@@ -1,2 +1,2 @@
 # Resume
-My Resume using complete html from scratch
+Resume using complete html from scratch
